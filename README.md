@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdussdev](https://github.com/abdussdev)
+- 👨‍💻 All of my projects are available at [https://abdussdev.com](https://abdussdev.com)
 
 - 📫 How to reach me **abdussdev@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/abdussdev?](https://github.com/abdussdev?)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
