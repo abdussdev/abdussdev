@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdus Samad</h1>
-<h3>I am a frontend developer (React JS) with extensive experience building user-facing applications. Efficient and knowledgeable coder with skills in HTML, CSS, Tailwind CSS, and JavaScript programming languages. Efficient team player with React JS proficiencies and ability to work independently or as part of a team to complete development tasks.</h3>
+<p>I am a frontend developer (React JS) with extensive experience building user-facing applications. Efficient and knowledgeable coder with skills in HTML, CSS, Tailwind CSS, and JavaScript programming languages. Efficient team player with React JS proficiencies and ability to work independently or as part of a team to complete development tasks.</p>
 
 - 🌱 I’m currently learning **Next JS**
 
